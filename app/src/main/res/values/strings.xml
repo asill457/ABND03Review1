@@ -1,0 +1,73 @@
+<resources>
+
+    <string name="netChal">IT IS TIME FOR NETWORKING CHALLENGE. LET US BEGIN!</string>
+
+    <string name="question1">QUESTION 1</string>
+    <string name="quest1">Tell us what is IP?</string>
+    <string name="ans1a">It is Important Person</string>
+    <string name="ans1b">Or Island Point</string>
+    <string name="ans1c">Or Internet Protocol</string>
+    <string name="ans1d">Or Internal Protocol</string>
+
+    <string name="question2">QUESTION 2</string>
+    <string name="quest2">In a network how many layers to we have?</string>
+    <string name="ans2a">2 Layers</string>
+    <string name="ans2b">7 Layers</string>
+    <string name="ans2c">4 Layers</string>
+    <string name="ans2d">5 Layers</string>
+
+    <string name="question3">QUESTION 3</string>
+    <string name="quest3">Can you tell what TCP is?</string>
+    <string name="ans3a">Transfer Control Protocol</string>
+    <string name="ans3b">Transferable Control Program</string>
+    <string name="ans3c">Tee Cons Pros</string>
+    <string name="ans3d">Trapped Controller Protocol</string>
+
+    <string name="question4">QUESTION 4</string>
+    <string name="quest4">What a MAC address is?</string>
+    <string name="ans4a">Device checking method</string>
+    <string name="ans4b">Apple computer component</string>
+    <string name="ans4c">Medium access point</string>
+    <string name="ans4d">Unique device address</string>
+
+    <string name="question5">QUESTION 5</string>
+    <string name="quest5">Why protocol is used in a network?</string>
+    <string name="ans5a">For fun</string>
+    <string name="ans5b">For communication between layers</string>
+    <string name="ans5c">For devices to communicate</string>
+    <string name="ans5d">It is not useful</string>
+
+    <string name="question6">QUESTION 6</string>
+    <string name="quest6">What is SNMP?</string>
+    <string name="ans6a">Small Network Messenger Party</string>
+    <string name="ans6b">Saved Net Mass Point</string>
+    <string name="ans6c">Simple Network Management Protocol</string>
+    <string name="ans6d">Simple Net Multipoint Programming</string>
+
+    <string name="question7">QUESTION 7</string>
+    <string name="quest7">What is SMTP?</string>
+    <string name="ans7a">Stored Message True Program</string>
+    <string name="ans7b">Simple Mail Transfer Protocol</string>
+    <string name="ans7c">So Much Tips Protocols</string>
+    <string name="ans7d">Sorted Message Transfer Point</string>
+
+    <string name="question8">QUESTION 8</string>
+    <string name="quest8">What is protocol in a network?</string>
+    <string name="ans8a">Rules</string>
+    <string name="ans8b">Address</string>
+    <string name="ans8c">System</string>
+    <string name="ans8d">Policies</string>
+
+    <string name="question9">QUESTION 9</string>
+    <string name="quest9">What is the number of network layer in OSI Model.</string>
+    <string name="ans9_1">Three</string>
+    <string name="ans9_2">3</string>
+
+    <string name="submit">submit</string>
+
+    <string name="scoreIs">YOU SCORED</string>
+    <string name="percent">FROM 9</string>
+
+
+</resources>
+
